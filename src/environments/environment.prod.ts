@@ -8,13 +8,14 @@ export const environment = {
     authDomain: 'login-ng-bdfe8.firebaseapp.com',
     messagingSenderId: '367997689656',
   },
-  firebaseConfig:{
-    apiKey: "AIzaSyAuzqiZZDrv940qGWPUmZhs8-nFqX7OEmY",
-    authDomain: "login-ng-bdfe8.firebaseapp.com",
-    projectId: "login-ng-bdfe8",
-    storageBucket: "login-ng-bdfe8.appspot.com",
-    messagingSenderId: "367997689656",
-    appId: "1:367997689656:web:4969064582b0abae292bcd"
+  firebaseConfig : {
+    apiKey: "AIzaSyAv7J44zhOYGhj9gjGCvvLRQ4x80aXxBhc",
+    authDomain: "casaesperanzaweb.firebaseapp.com",
+    projectId: "casaesperanzaweb",
+    storageBucket: "casaesperanzaweb.appspot.com",
+    messagingSenderId: "201829999060",
+    appId: "1:201829999060:web:fed0400d3338fd10c9f641",
+    measurementId: "G-431T8HKWLM"
   },
   serviceID: 'service_xuc03sh',
   templateID: 'template_zfotn4u',
